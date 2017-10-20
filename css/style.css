@@ -1,0 +1,28 @@
+#box_1 { 
+	width: 200px;
+	height: 200px;
+	background: #ee3e64;
+}
+#box_2 { 
+	position: absolute;
+	left: 100px;
+	width: 200px;
+	height: 200px;
+	background: #44accf;
+}
+/*ejemplo "i" en este ejemplo "i" se superpone al ejemplo anterior */
+#box_a { 
+	position: absolute;
+	top: 0;
+	left: 100px;
+	width: 200px;
+	height: 200px;
+	background: #44accf;
+}
+/*ejemplo j muestra un pie de página con algún texto de copyright como fixedelemento.
+#box_c {
+	position: fixed; 
+	bottom: 0; 
+	left: 0; 
+	right: 0; 
+}*/
